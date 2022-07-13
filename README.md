@@ -1,4 +1,5 @@
 # MyProject2-Udagram
+#Udagram Project is a project by Udacity to test my understanding of the IaaC class and to enable me to practice hands-on and be very familiar with scripting. 
 # My Udagram Loadbalancer URL: http://MyUda-Udagr-YX0QCCWRKGO5-417433312.us-east-1.elb.amazonaws.com
 
 
